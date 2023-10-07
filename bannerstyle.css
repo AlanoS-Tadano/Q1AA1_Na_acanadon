@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+.banner{
+    background-image: url('images/ForeverKamiatis.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    width: 99.1vw;
+    height: 100vh;
+    text-align: center;
+    
+}
+
+#text{
+    margin-top: px;
+}
+
+.banner h1{
+    font-family: 'Young Serif', serif;
+    font-size: 100px;
+    color: rgb(186, 45, 11);
+    text-shadow: 1px 1px black;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.banner h1 span{
+    font-family: 'Young Serif', serif;
+    color: rgb(241, 242, 235);
+}
+
+.banner p{
+    font-family: 'Young Serif', serif;
+    color: #FFDC90;
+    text-shadow: 1px 1px black;
+    text-align: left;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.banner a{
+    padding: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(to bottom right, #d17a22, #CC9725);
+    font-family: 'Young Serif', serif;
+    color: black;
+    border-radius: 10px;
+    transition: 0.2s;
+}
