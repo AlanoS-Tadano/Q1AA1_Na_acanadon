@@ -6,7 +6,7 @@
 #navbar{
     padding-top: 20px;
     padding-bottom: 34px;
-    background-color: rgb(52, 64, 85);
+    background-image: linear-gradient(to right,#305252, #344055);
     border-bottom: 1px solid black;
     padding-right: 150px;
     text-align: right;

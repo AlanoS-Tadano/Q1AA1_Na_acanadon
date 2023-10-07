@@ -1,11 +1,31 @@
 .footer{
-    height:59px;
+    height:100px;
     width: 100%;
-    background-image: none;
-    background-color: rgb(48, 82, 82);
+    background-image: linear-gradient(to right, #344055,#305252);
     background-repeat: repeat;
-
     bottom: 0pt;
     left: 0pt;
     border-top: 1px solid black;
+}
+
+.copiumright{
+    color: white;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.imglnk{
+    text-align: right;
+    padding-right: 150px;
+
+}
+
+.brand{
+    display: inline;
+    border-radius: 100px;
+}
+
+.imglnk a:hover{
+    background-image: linear-gradient(to bottom, black, beige);
+    transition: 1s;
 }

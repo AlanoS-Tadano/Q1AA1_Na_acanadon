@@ -1,0 +1,59 @@
+#gallery{
+    width: 99.1vw;
+    height: 100vh;
+}
+
+#gallery h1{
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
+.galleryproper{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 575px;
+    margin-right: 560px;
+}
+
+.galleryproper #pic1{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    padding: 25px;
+}
+
+.galleryproper #pic2{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    padding: 25px;
+}
+
+.galleryproper #pic3{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    padding: 25px;
+}
+
+.galleryproper #pic4{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    padding: 25px;
+}
+
+.galleryproper #pic5{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    padding: 25px;
+}
+
+.galleryproper #pic6{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    padding: 25px;
+}
