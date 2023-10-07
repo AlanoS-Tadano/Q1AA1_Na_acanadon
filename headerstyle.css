@@ -25,6 +25,7 @@
     color: aliceblue;
     padding: 20px;
     padding-bottom: 34px;
+    position: static;
     transition: 0.2s;
 }
 
