@@ -4,56 +4,56 @@
 }
 
 #gallery h1{
-    margin-top: 40px;
-    margin-left: 50px;
-    font-size: 50px;
+    margin-top: 3vh;
+    margin-left: 4vw;
+    font-size: 5vh, 5vw;
 }
 
 .galleryproper{
     margin-top: 25px;
     margin-bottom: 25px;
-    margin-left: 575px;
-    margin-right: 560px;
+    margin-left: 25vw;
+    margin-right: 2vw;
 }
 
 .galleryproper #pic1{
-    width: 200px;
-    height: 300px;
+    width: 15.45vw;
+    height: 37.2vh;
     object-fit: cover;
     padding: 25px;
 }
 
 .galleryproper #pic2{
-    width: 200px;
-    height: 300px;
+    width: 15.45vw;
+    height: 37.2vh;
     object-fit: cover;
     padding: 25px;
 }
 
 .galleryproper #pic3{
-    width: 200px;
-    height: 300px;
+    width: 15.45vw;
+    height: 37.2vh;
     object-fit: cover;
     padding: 25px;
 }
 
 .galleryproper #pic4{
-    width: 200px;
-    height: 300px;
+    width: 15.45vw;
+    height: 37.2vh;
     object-fit: cover;
     padding: 25px;
 }
 
 .galleryproper #pic5{
-    width: 200px;
-    height: 300px;
+    width: 15.45vw;
+    height: 37.2vh;
     object-fit: cover;
     padding: 25px;
 }
 
 .galleryproper #pic6{
-    width: 200px;
-    height: 300px;
+    width: 15.45vw;
+    height: 37.2vh;
     object-fit: cover;
     padding: 25px;
 }

@@ -10,17 +10,13 @@
     
 }
 
-#text{
-    margin-top: px;
-}
-
 .banner h1{
     font-family: 'Young Serif', serif;
-    font-size: 100px;
+    font-size: 10.7vh;
     color: rgb(186, 45, 11);
-    text-shadow: 2px 2px black;
+    text-shadow: 1.5px 1.5px black;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 10.7vh;
 }
 
 .banner h1 span{
@@ -31,14 +27,15 @@
 .banner p{
     font-family: 'Young Serif', serif;
     color: #FFDC90;
-    text-shadow: 2px 2px black;
+    text-shadow: 1.5px 1.5px black;
     text-align: left;
-    margin-left: 60px;
+    margin-left: 6.45vh;
     margin-bottom: 20px;
 }
 
 .banner a{
     padding: 10px;
+    font-size: 2vh;
     text-decoration: none;
     background-image: linear-gradient(to bottom right, #A24936, #BA2D0B);
     opacity: 0.5;
